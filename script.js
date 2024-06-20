@@ -331,7 +331,7 @@ btnTransfer.addEventListener('click', function (e) {
 
     //Reset timer
     clearInterval(timer);
-    timer = startLogOutTimer;
+    timer = startLogOutTimer();
   }
 });
 
