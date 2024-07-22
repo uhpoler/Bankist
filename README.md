@@ -14,7 +14,7 @@ The BankistFunctionalities is a simple, minimalist online banking . It allows us
 
 ## What is Bankist?
 
-<a href="https://bankist-uhpoler.netlify.app/">Bankist</a> is a fictional online bank created as a project to practice DOM manipulation and user interaction. It allows users to log in to their accounts and use various functionalities, simulating a real banking experience.
+<a href="https://bankist-functionalities-uhpoler.netlify.app/">Bankist</a> is a fictional online bank created as a project to practice DOM manipulation and user interaction. It allows users to log in to their accounts and use various functionalities, simulating a real banking experience.
 
 ## Login Details
 
